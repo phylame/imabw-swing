@@ -1,0 +1,15 @@
+apply plugin: "kotlin"
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    // Jem
+    compile "pw.phylame.jem:jem-formats:$jem_version"
+    compile("pw.phylame.jem:jem-kotlin:$jem_version") {
+        exclude group: 'org.jetbrains.kotlin'
+    }
+
+    compile "pw.phylame.qaf:qaf-ixin:$qaf_version"
+
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+}

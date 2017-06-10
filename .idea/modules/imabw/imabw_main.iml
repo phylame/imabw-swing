@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":imabw:main" external.linked.project.path="$MODULE_DIR$/../../../imabw" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="imabw-swing" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="2" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="G:\projects\imabw-swing\imabw\build\kotlin-classes\main" />
+          <option name="classpath" value="G:\projects\imabw-swing\imabw\libs\beautyeye_lnf.jar;F:\data\maven\pw\phylame\jem\jem-formats\3.3.0\jem-formats-3.3.0.jar;F:\data\maven\pw\phylame\jem\jem-kotlin\3.3.0\jem-kotlin-3.3.0.jar;F:\data\maven\pw\phylame\qaf\qaf-ixin\1.1.0\qaf-ixin-1.1.0.jar;F:\data\gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-2\cec67c14515d8af92ae3e20e27b6da50a26fde84\kotlin-stdlib-jre7-1.1.2-2.jar;F:\data\maven\pw\phylame\jem\jem-epm\3.3.0\jem-epm-3.3.0.jar;F:\data\maven\pw\phylame\jem\jem-core\3.3.0\jem-core-3.3.0.jar;F:\data\maven\pw\phylame\qaf\qaf-core\1.1.0\qaf-core-1.1.0.jar;F:\data\maven\org\json\json\20160810\json-20160810.jar;F:\data\gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-2\2b22828f027e103dcd45f3aa240338bfdb53d16b\kotlin-stdlib-1.1.2-2.jar;F:\data\maven\xpp3\xpp3\1.1.4c\xpp3-1.1.4c.jar;F:\data\maven\pw\phylame\util\commons\1.1.0\commons-1.1.0.jar;F:\data\maven\org\jetbrains\annotations\13.0\annotations-13.0.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="imabw_main" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.1" />
+          <option name="apiVersion" value="1.1" />
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="coroutinesWarn" value="true" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../imabw/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../imabw/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../imabw/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../imabw/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../imabw/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../imabw/libs/beautyeye_lnf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: pw.phylame.jem:jem-formats:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: pw.phylame.jem:jem-kotlin:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: pw.phylame.qaf:qaf-ixin:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: pw.phylame.jem:jem-epm:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: pw.phylame.jem:jem-core:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: pw.phylame.qaf:qaf-core:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20160810" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: pw.phylame.util:commons:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+</module>
